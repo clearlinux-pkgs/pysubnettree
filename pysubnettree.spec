@@ -4,7 +4,7 @@
 #
 Name     : pysubnettree
 Version  : 0.33
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/85/67/5365c1dbee990fa01ba48a2eca48787780ddcf6a993c13fdcbac63ae4c53/pysubnettree-0.33.tar.gz
 Source0  : https://files.pythonhosted.org/packages/85/67/5365c1dbee990fa01ba48a2eca48787780ddcf6a993c13fdcbac63ae4c53/pysubnettree-0.33.tar.gz
 Summary  : No summary provided
@@ -45,6 +45,7 @@ python components for the pysubnettree package.
 Summary: python3 components for the pysubnettree package.
 Group: Default
 Requires: python3-core
+Provides: pypi(pysubnettree)
 
 %description python3
 python3 components for the pysubnettree package.
@@ -59,7 +60,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1581992846
+export SOURCE_DATE_EPOCH=1583210013
 # -Werror is for werrorists
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
