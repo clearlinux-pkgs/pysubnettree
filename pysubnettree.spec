@@ -4,7 +4,7 @@
 #
 Name     : pysubnettree
 Version  : 0.33
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/85/67/5365c1dbee990fa01ba48a2eca48787780ddcf6a993c13fdcbac63ae4c53/pysubnettree-0.33.tar.gz
 Source0  : https://files.pythonhosted.org/packages/85/67/5365c1dbee990fa01ba48a2eca48787780ddcf6a993c13fdcbac63ae4c53/pysubnettree-0.33.tar.gz
 Summary  : No summary provided
