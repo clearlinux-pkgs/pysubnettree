@@ -4,7 +4,7 @@
 #
 Name     : pysubnettree
 Version  : 0.34
-Release  : 11
+Release  : 12
 URL      : https://files.pythonhosted.org/packages/ec/eb/0b2f4042368692a578f857782b76750c58203601e50c384624d24b504ade/pysubnettree-0.34.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ec/eb/0b2f4042368692a578f857782b76750c58203601e50c384624d24b504ade/pysubnettree-0.34.tar.gz
 Summary  : No summary provided
